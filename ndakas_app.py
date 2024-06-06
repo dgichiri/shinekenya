@@ -10,7 +10,7 @@ import random
 
 st.write("""
  
-# Welcome to Tunakaribisha Mabingwa kwa Mbio Za Mamilii hapa Camp Toyoyo. 
+# Tunakaribisha Mabingwa kwa Mbio Za Mamilii hapa Camp Toyoyo. 
         
          """)
 
