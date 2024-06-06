@@ -10,7 +10,7 @@ import random
 
 st.write("""
  
-# Welcome to SAFARICOM ENCHANTED AFRICAN GALA
+# Welcome to Tunakaribisha Mabingwa kwa Mbio Za Mamilii hapa Camp Toyoyo. 
         
          """)
 
